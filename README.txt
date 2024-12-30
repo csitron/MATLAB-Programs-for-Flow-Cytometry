@@ -72,6 +72,6 @@ gate = the bounds of the gate you drew
 An example of this type of analysis can be found in flow_analysis_Gate.m.
 
 Acknowledgments:
-We acknowledge Prof. Onn Brandman (Stanford University) for writing the original version of the readFlowDataBatch function, Laszlo Balkay for the fca_readfcs function, and Robert Henson for the dscatter function.
+We acknowledge Prof. Onn Brandman (Stanford University) for writing the original version of the readFlowDataBatch function, Laszlo Balkay for the fca_readfcs function, and Robert Henson for the dscatter function. This work was supported by the joint efforts of The Michael J. Fox Foundation for Parkinson’s Research (MJFF) and the Aligning Science Across Parkinson’s (ASAP) initiative. MJFF administers the grants ASAP-000282 and ASAP- 024268 on behalf of ASAP and itself.
 
 
